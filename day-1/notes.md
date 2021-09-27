@@ -1,5 +1,3 @@
-Good markdown for your day 1 notes including at least 2 of the following: bullet list, a table, bold, italicized, h1, h2, and h3 text
-
 # Day 1 Notes
 
 ## Zoom
